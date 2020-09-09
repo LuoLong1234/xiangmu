@@ -1,4 +1,4 @@
-# vuexm
+# names
 
 ## Project setup
 ```
